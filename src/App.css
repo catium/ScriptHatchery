@@ -1,0 +1,38 @@
+.ant-advanced-search-form {
+    margin: 20px;
+    padding: 100px;
+    background: #fbfbfb;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+
+}
+
+  
+.search-result-list {
+    margin-top: 16px;
+    border: 1px dashed #e9e9e9;
+    border-radius: 6px;
+    background-color: #fafafa;
+    /* min-height: 200px; */
+    /* text-align: center; */
+    padding-top: 0px;
+  }
+
+.search-form-button {
+   width: 150px;
+    height: 30px;
+}
+
+/* For demo */
+.ant-carousel .slick-slide {
+    text-align: center;
+    border: 1px dashed #1DA57A;
+    border-radius: 6px;
+    background-color: #fafafa;
+  }
+  
+.slider-card {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+

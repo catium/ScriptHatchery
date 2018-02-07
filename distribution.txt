@@ -1,0 +1,6 @@
+0.set nativeContext.runfrompackage to true
+1.npm build
+2.modify '/assets' path in main.css to '../../assets'
+3.keep /build /native main.js package.json in 'app' folder
+4.npm install --production
+5.asar pack app app.asar
